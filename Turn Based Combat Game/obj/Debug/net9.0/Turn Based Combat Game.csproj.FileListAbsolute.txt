@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\bin\Debug\net9.0\Turn Based Combat Game.exe
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\bin\Debug\net9.0\Turn Based Combat Game.deps.json
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\bin\Debug\net9.0\Turn Based Combat Game.runtimeconfig.json
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\bin\Debug\net9.0\Turn Based Combat Game.dll
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\bin\Debug\net9.0\Turn Based Combat Game.pdb
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\Turn Based Combat Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\Turn Based Combat Game.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\Turn Based Combat Game.AssemblyInfo.cs
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\Turn Based Combat Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\Turn Based Combat Game.dll
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\refint\Turn Based Combat Game.dll
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\Turn Based Combat Game.pdb
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\Turn Based Combat Game.genruntimeconfig.cache
+C:\Users\User\Desktop\EVERYTHING\Programming\Coding Projects\C# Projects\Turn Based Combat Game\obj\Debug\net9.0\ref\Turn Based Combat Game.dll
